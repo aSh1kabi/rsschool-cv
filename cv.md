@@ -14,5 +14,7 @@ ___
 * React redux
 * Redux-Saga
 * TypeScript
+* HTML
+* Git
 ___
 _English level:_ __`A1`__
